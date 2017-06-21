@@ -1,0 +1,10 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Games Demo"
+theme = "slate"
+
+# list of nav tags
+[[ params.nav ]]
+name = "Games"
+tag = "Games"
+icon = "gamepad"
