@@ -12,9 +12,30 @@ tiles:
   bg_color: '#ffb900'
   tags: ['source']
 -
-  name: 'hextris'
+  name: 'tetris'
   url: 'http://localhost:1313/games/tetris/'
   img: '/tetris/img/logo.jpg'
   txt_color: '#ffffff'
   bg_color: '#ffb900'
   tags: ['source']
+-
+  name: 'popstar'
+  url: 'http://localhost:1313/games/popstar/'
+  img: '/popstar/img/logo.png'
+  txt_color: '#ffffff'
+  bg_color: '#ffb900'
+  tags: ['embedded']
+-
+  name: 'pacman'
+  url: 'http://localhost:1313/games/pacman/'
+  img: '/pacman/img/logo.png'
+  txt_color: '#ffffff'
+  bg_color: '#ffb900'
+  tags: ['embedded']
+-
+  name: 'angrybirds'
+  url: 'http://localhost:1313/games/angrybirds/'
+  img: '/angrybirds/img/logo.jpg'
+  txt_color: '#ffffff'
+  bg_color: '#ffb900'
+  tags: ['embedded']
