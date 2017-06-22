@@ -5,6 +5,11 @@ theme = "slate"
 
 # list of nav tags
 [[ params.nav ]]
-name = "Games"
-tag = "Games"
-icon = "gamepad"
+name = "Source"
+tag = "source"
+icon = "code"
+
+[[ params.nav ]]
+name = "Embedded"
+tag = "embedded"
+icon = "bookmark"
