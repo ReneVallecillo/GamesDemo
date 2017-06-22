@@ -1,40 +1,40 @@
 tiles:
 -
   name: '2048'
-  url: 'http://localhost:1313/games/2048/'
+  url: '/games/2048/'
   img: '/2048/img/logo.png'
   tags: ['source']
 -
   name: 'hextris'
-  url: 'http://localhost:1313/games/hextris/'
+  url: '/games/hextris/'
   img: '/hextris/images/twitter-opengraph.png'
   txt_color: '#ffffff'
   bg_color: '#ffb900'
   tags: ['source']
 -
   name: 'tetris'
-  url: 'http://localhost:1313/games/tetris/'
+  url: '/games/tetris/'
   img: '/tetris/img/logo.jpg'
   txt_color: '#ffffff'
   bg_color: '#ffb900'
   tags: ['source']
 -
   name: 'popstar'
-  url: 'http://localhost:1313/games/popstar/'
+  url: '/games/popstar/'
   img: '/popstar/img/logo.png'
   txt_color: '#ffffff'
   bg_color: '#ffb900'
   tags: ['embedded']
 -
   name: 'pacman'
-  url: 'http://localhost:1313/games/pacman/'
+  url: '/games/pacman/'
   img: '/pacman/img/logo.png'
   txt_color: '#ffffff'
   bg_color: '#ffb900'
   tags: ['embedded']
 -
   name: 'angrybirds'
-  url: 'http://localhost:1313/games/angrybirds/'
+  url: '/games/angrybirds/'
   img: '/angrybirds/img/logo.jpg'
   txt_color: '#ffffff'
   bg_color: '#ffb900'
