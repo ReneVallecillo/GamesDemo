@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Games Demo</title>
+    <link>https://renevallecillo.github.io/GamesDemo/</link>
+    <description>Recent content on Games Demo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 22 Jun 2017 12:07:54 -0600</lastBuildDate>
+    
+	<atom:link href="https://renevallecillo.github.io/GamesDemo/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>angrybirds</title>
+      <link>https://renevallecillo.github.io/GamesDemo/games/angrybirds/</link>
+      <pubDate>Thu, 22 Jun 2017 12:07:54 -0600</pubDate>
+      
+      <guid>https://renevallecillo.github.io/GamesDemo/games/angrybirds/</guid>
+      <description> </description>
+    </item>
+    
+    <item>
+      <title>pacman</title>
+      <link>https://renevallecillo.github.io/GamesDemo/games/pacman/</link>
+      <pubDate>Thu, 22 Jun 2017 10:56:37 -0600</pubDate>
+      
+      <guid>https://renevallecillo.github.io/GamesDemo/games/pacman/</guid>
+      <description> </description>
+    </item>
+    
+    <item>
+      <title>popstar</title>
+      <link>https://renevallecillo.github.io/GamesDemo/games/popstar/</link>
+      <pubDate>Thu, 22 Jun 2017 10:44:54 -0600</pubDate>
+      
+      <guid>https://renevallecillo.github.io/GamesDemo/games/popstar/</guid>
+      <description> </description>
+    </item>
+    
+    <item>
+      <title>tetris</title>
+      <link>https://renevallecillo.github.io/GamesDemo/games/tetris/</link>
+      <pubDate>Thu, 22 Jun 2017 10:21:25 -0600</pubDate>
+      
+      <guid>https://renevallecillo.github.io/GamesDemo/games/tetris/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hextris</title>
+      <link>https://renevallecillo.github.io/GamesDemo/games/hextris/</link>
+      <pubDate>Wed, 21 Jun 2017 15:24:55 -0600</pubDate>
+      
+      <guid>https://renevallecillo.github.io/GamesDemo/games/hextris/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2048</title>
+      <link>https://renevallecillo.github.io/GamesDemo/games/2048/</link>
+      <pubDate>Tue, 20 Jun 2017 15:50:15 -0600</pubDate>
+      
+      <guid>https://renevallecillo.github.io/GamesDemo/games/2048/</guid>
+      <description>2048 0 0   Join the numbers and get to the 2048 tile!
+New Game  
+Keep going Try again                            </description>
+    </item>
+    
+  </channel>
+</rss>
